@@ -1,2 +1,2 @@
-# Project-1
+# Banking website
 A banking website
